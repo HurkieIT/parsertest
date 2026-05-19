@@ -84,5 +84,35 @@ public class ParserValidationTests
         Assert.AreEqual("test.jpg", message.Attachments[0].FileName);
         Assert.IsTrue(message.Attachments[0].Url!.Contains("cdn.discordapp.com"));
     }
-    //Hier moet nog een PDF generator test komen maar deze is moeilijk te testen zonder constante output. 
+
+    [TestMethod]
+    public void PdfGenerator_ShouldRunWithoutExceptions()
+    {
+        // Arrange
+        QuestPDF.Settings.License = QuestPDF.Infrastructure.LicenseType.Community;
+
+        var export = new DiscordExport();
+
+        export.Messages.Add(new DiscordMessage
+        {
+            Timestamp = DateTime.Now,
+            Content = "PDF validatie test",
+            Author = new DiscordAuthor
+            {
+                Name = "TestUser"
+            }
+        });
+
+        // Act & Assert
+        try
+        {
+            PdfGenerator.GeneratePDF(export);
+
+            Assert.IsTrue(true);
+        }
+        catch (Exception ex)
+        {
+            Assert.Fail($"PDF generatie faalde: {ex.Message}");
+        }
+    }
 }
