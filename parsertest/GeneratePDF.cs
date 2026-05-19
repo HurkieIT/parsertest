@@ -13,7 +13,11 @@ public static class PdfGenerator
 
         Directory.CreateDirectory(outputFolder);
 
-        string outputPath = Path.Combine(outputFolder, "DiscordExport.pdf");
+        string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+
+        string outputPath = Path.Combine(
+            outputFolder,
+            $"DiscordExport_{timestamp}.pdf");
 
         Console.WriteLine($"PDF output path: {outputPath}");
 
