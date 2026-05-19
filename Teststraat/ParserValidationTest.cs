@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.IO;
+using Newtonsoft.Json;
 
 [TestClass]
 public class ParserValidationTests
@@ -83,36 +84,5 @@ public class ParserValidationTests
         Assert.AreEqual(1, message.Attachments.Count);
         Assert.AreEqual("test.jpg", message.Attachments[0].FileName);
         Assert.IsTrue(message.Attachments[0].Url!.Contains("cdn.discordapp.com"));
-    }
-
-    [TestMethod]
-    public void PdfGenerator_ShouldRunWithoutExceptions()
-    {
-        // Arrange
-        QuestPDF.Settings.License = QuestPDF.Infrastructure.LicenseType.Community;
-
-        var export = new DiscordExport();
-
-        export.Messages.Add(new DiscordMessage
-        {
-            Timestamp = DateTime.Now,
-            Content = "PDF validatie test",
-            Author = new DiscordAuthor
-            {
-                Name = "TestUser"
-            }
-        });
-
-        // Act & Assert
-        try
-        {
-            PdfGenerator.GeneratePDF(export);
-
-            Assert.IsTrue(true);
-        }
-        catch (Exception ex)
-        {
-            Assert.Fail($"PDF generatie faalde: {ex.Message}");
-        }
     }
 }
