@@ -1,0 +1,309 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1496933167729348742",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "The Legend of $T0N3Y",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-05-19T16:02:53.0578905+00:00",
+  "messages": [
+    {
+      "id": "1496933185773375688",
+      "type": "Default",
+      "timestamp": "2026-04-23T17:58:03.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "437886717672947713",
+        "name": "thelegendofstoney",
+        "discriminator": "0000",
+        "nickname": "The Legend of $T0N3Y",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437886717672947713/354bdcfd8be2b6d1b20d429c3b13e224.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496933197903298690",
+      "type": "Default",
+      "timestamp": "2026-04-23T17:58:06.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hallo",
+      "author": {
+        "id": "437886717672947713",
+        "name": "thelegendofstoney",
+        "discriminator": "0000",
+        "nickname": "The Legend of $T0N3Y",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437886717672947713/354bdcfd8be2b6d1b20d429c3b13e224.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496933218690273340",
+      "type": "Default",
+      "timestamp": "2026-04-23T17:58:11.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hallo",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496933242111262743",
+      "type": "Default",
+      "timestamp": "2026-04-23T17:58:16.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dit is een test",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496933253142286416",
+      "type": "Default",
+      "timestamp": "2026-04-23T17:58:19.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dit ook",
+      "author": {
+        "id": "437886717672947713",
+        "name": "thelegendofstoney",
+        "discriminator": "0000",
+        "nickname": "The Legend of $T0N3Y",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437886717672947713/354bdcfd8be2b6d1b20d429c3b13e224.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496935115165536297",
+      "type": "Default",
+      "timestamp": "2026-04-23T18:05:43.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hallo",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496937081623154920",
+      "type": "Default",
+      "timestamp": "2026-04-23T18:13:32.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [
+        {
+          "id": "1496937081614897292",
+          "url": "https://cdn.discordapp.com/attachments/1496933167729348742/1496937081614897292/FD2EEE3F-2B3E-4FAA-9EBE-A20BACA9A578.jpg?ex=6a0d510c&is=6a0bff8c&hm=25f40199cbc5567dba34cd8fa1ff9f867e27ad8eead64dc22a71eeaf5b76969d&",
+          "fileName": "FD2EEE3F-2B3E-4FAA-9EBE-A20BACA9A578.jpg",
+          "fileSizeBytes": 157465
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496937110064861204",
+      "type": "Default",
+      "timestamp": "2026-04-23T18:13:38.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rare afbeelding voor de test",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496937148128035048",
+      "type": "Default",
+      "timestamp": "2026-04-23T18:13:47.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/shut-up-cat-monch-cat-monch-spinfal-gif-19376414",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/shut-up-cat-monch-cat-monch-spinfal-gif-19376414",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TZc94Pg63IgeK9twbeHdDgFff4bclnHM000uwoQ08Dw/https/media.tenor.com/yBULHlY700oAAAAe/shut-up-cat.png",
+            "canonicalUrl": "https://media.tenor.com/yBULHlY700oAAAAe/shut-up-cat.png",
+            "width": 366,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/8ZgNIKslJKi87138iXWjeBytTF2jsPMAoOcd7a86vlk/https/media.tenor.com/yBULHlY700oAAAPo/shut-up-cat.mp4",
+            "canonicalUrl": "https://media.tenor.com/yBULHlY700oAAAPo/shut-up-cat.mp4",
+            "width": 366,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1496937166381518939",
+      "type": "Default",
+      "timestamp": "2026-04-23T18:13:52.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GIF voor de test",
+      "author": {
+        "id": "1496932236384145459",
+        "name": "averageguy21",
+        "discriminator": "0000",
+        "nickname": "AverageGuy21",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 10
+}
